@@ -28,7 +28,7 @@ using namespace std;
 //     int i, size;
 //     size = 10;
 //     i = 0;
-//     while (i < SIZE) {
+//     while (i < size) {
 //         cout << 1;
 //         i = i + 1;
 //     }
