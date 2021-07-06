@@ -11,7 +11,7 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char** argv) {
+int main() {
     cout << "Please enter two numbers seperated by space: ";
     int num1, num2;
     cin >> num1;

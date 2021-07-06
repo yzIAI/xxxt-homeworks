@@ -13,7 +13,7 @@
 using namespace std;
 
 // 在c++里面有很多不同的数据类型，选择合适的数据类型也很重要哦
-int main(int argc, char** argv) {
+int main() {
     float num;
     cin >> num;
     cout << "My favourite number is " << num << endl;

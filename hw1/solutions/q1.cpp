@@ -13,7 +13,7 @@ using namespace std;
 
 // 输出这个图案有很多种方法，也可以分成很多行，我给出了两种写法。
 // 流式输出可以很多串成一行，endl表示转行所以使用换行符 \n 也可以达到一样的效果
-int main(int argc, char** argv) {
+int main() {
     // Approach 1
     cout << "~ ~" << endl << "0 0" << endl << " o" << endl << "\\_/" << endl;
 

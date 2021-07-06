@@ -15,7 +15,7 @@
 using namespace std;
 
 //TODO:
-int main(int argc, char** argv) {
+int main() {
     // 首先输出一句话 “Please enter two numbers seperated by space: ”
 
     // 再将数字分别存入两个个整型变量

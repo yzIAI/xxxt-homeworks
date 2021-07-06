@@ -15,7 +15,7 @@
 using namespace std;
 
 // TODO:
-int main(int argc, char** argv) {
+int main() {
     // 使用 cout 输出
     // ~ ~
     // 0 0

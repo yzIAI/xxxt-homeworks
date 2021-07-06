@@ -15,7 +15,7 @@
 using namespace std;
 
 // TODO:
-int main(int argc, char** argv) {
+int main() {
     // 使用cin先读入一个数字（用浮点数），然后输出“My favourite number is 【读入的数】.”
     // 使用cin先读入一个字母，然后输出“My favourite letter is 【读入的单词】.”
 
