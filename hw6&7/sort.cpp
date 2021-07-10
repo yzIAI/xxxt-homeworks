@@ -1,10 +1,3 @@
-# 信息学堂作业6和7
-> 这次作业没有代码，没有需要写的东西，主要目的是体验一下不同时间复杂度的排序算法对于不同数据量的排序时间差异
-> 希望可以给大家一个比较直观的感受
-
-我们分别给了复杂度为$O(n^2)$和$O(nlogn)$的算法，uncomment `// selectionSort(values);`或者`// merge_sort(values);`，运行后会输出排序所消耗的时间。你可以通过修改全局变量`size`来改变输入数据的个数。
-
-```c++
 // C++ program for implementation of selection sort
 #include <iostream>
 #include <time.h>
@@ -76,5 +69,3 @@ int main()
 }
 
 // This is code is contributed by rathbhupendra
-
-```
